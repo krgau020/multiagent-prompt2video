@@ -97,6 +97,7 @@ python video_generation.py
 ├── agent.py             # Defines all agents & tools  
 ├── crew.py              # Flowchart approval loop + main CrewAI pipeline  
 ├── tasks.py             # Task definitions for each agent  
+├── tools.py             # Tools definitions 
 ├── video_maker_using_imageFromPrompt_and_combine.py  # Transforms text outputs to final video  
 ├── outputs/             # Stores flowchart, script, visuals text  
 ├── video_assets/        # Stores generated images, audio, final video  
