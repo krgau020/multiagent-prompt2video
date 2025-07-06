@@ -94,7 +94,6 @@ python video_generation.py
 
 ## 📂 Project Structure
 
-.
 ├── agent.py             # Defines all agents & tools  
 ├── crew.py              # Flowchart approval loop + main CrewAI pipeline  
 ├── tasks.py             # Task definitions for each agent  
