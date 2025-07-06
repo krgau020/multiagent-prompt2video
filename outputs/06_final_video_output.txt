@@ -1,0 +1,17 @@
+🎬 [Mock Video Output]:
+
+Simulate a 30-second video on 'How drones are changing agriculture' based on the following script and visuals:
+
+**Script Summary:**
+Narrator introduces drones as a revolutionary tool in agriculture, enabling farmers to slash costs and boost yields. The script highlights benefits like precision spraying, crop monitoring, and real-time data analysis.
+
+**Visuals Summary:**
+Opening shot of a drone flying over a farm. Scenes include close-ups of crops, a farmer using a tablet to analyze data, a split-screen comparison of traditional vs. drone-based farming, and graphics showcasing statistics on reduced pesticide use and increased yields.
+
+**Specifics to include from evaluation:**
+*   **Specific Statistics:** 30% reduction in pesticide use, 15% increase in yields
+*   **Real-time data, instant action! Visual:** The farmer using a tablet identifying a pest infestation and then remotely adjusting a sprayer.
+
+**Tone:** Positive and Optimistic
+
+**Length:** 30 seconds
